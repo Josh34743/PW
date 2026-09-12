@@ -1,7 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-
   <head>
     <meta charset="utf-8">
     <title>🙂Joshua's Personal Site</title>
@@ -68,7 +65,3 @@
                 <td>⭐️⭐️⭐️</td>
                     </tr>
 
-   </ul>
- </body>
-
-</html>
