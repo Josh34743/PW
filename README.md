@@ -1,4 +1,4 @@
-[index.html.html](https://github.com/user-attachments/files/32144122/index.html.html)
+
 <!DOCTYPE html>
 <html>
 
